@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0520a781d2fda4c759aa1106b7b918ff
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - problemBox: {instanceID: 0}
+  - letterbox: {instanceID: 0}
+  - minionSpawnWait: {instanceID: 0}
+  - letterBox: {instanceID: 0}
+  - whatIsText: {instanceID: 0}
+  - score: {instanceID: 0}
+  - gameSounds: {instanceID: 0}
+  - failSound: {instanceID: 0}
+  - successSound: {instanceID: 0}
+  - gameOverSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
